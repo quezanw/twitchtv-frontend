@@ -4,14 +4,13 @@ body {
 
 .grid {
   height: 100vh;
-  border: 10px solid #BADA55;
+  /* border: 10px solid #BADA55; */
   display: grid;
   grid-template-columns: 2fr 9fr 3fr;
   grid-template-rows: 55px repeat(10, 1fr); 
 }
 
 .header {
-  background-color: #4b367c;
   grid-column: 1 / -1;
 }
 

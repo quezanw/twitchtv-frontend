@@ -1,2 +1,8 @@
+/* Base */
 @import "./reset.css";
 @import "./layout.css";
+
+/* Components */
+@import "./components/header.css";
+@import "./components/livechat.css";
+@import "./components//sidebar.css";
